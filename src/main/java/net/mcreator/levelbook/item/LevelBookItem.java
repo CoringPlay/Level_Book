@@ -60,7 +60,7 @@ public class LevelBookItem extends LevelBookModElements.ModElement {
 		public void addInformation(ItemStack itemstack, World world, List<ITextComponent> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
 			list.add(new StringTextComponent("(90%) +5 \u00A7exp \u00A72level"));
-			list.add(new StringTextComponent("(10%) -50 \u00A7exp \u00A72level"));
+			list.add(new StringTextComponent("\u00A74(10%) -50 \u00A7exp \u00A72level"));
 		}
 
 		@Override

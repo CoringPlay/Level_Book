@@ -1,6 +1,5 @@
 {
   "display": {
-    "background": "minecraft:textures/block/stone.png",
     "icon": {
       "item": "level_book:level_book"
     },
@@ -33,5 +32,6 @@
   },
   "rewards": {
     "experience": 1
-  }
+  },
+  "parent": "level_book:essence_x_pach"
 }

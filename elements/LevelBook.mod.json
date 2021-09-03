@@ -26,7 +26,7 @@
     "damageVsEntity": 0.0,
     "specialInfo": [
       "(90%) +5 §exp §2level",
-      "(10%) -50 §exp §2level"
+      "§4(10%) -50 §exp §2level"
     ],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",
