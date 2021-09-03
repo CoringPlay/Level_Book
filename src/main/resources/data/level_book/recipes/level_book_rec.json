@@ -1,0 +1,42 @@
+{
+  "group": "level_book",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:small_flowers"
+    },
+    "1": {
+      "item": "minecraft:experience_bottle"
+    },
+    "2": {
+      "tag": "minecraft:small_flowers"
+    },
+    "3": {
+      "item": "minecraft:experience_bottle"
+    },
+    "4": {
+      "item": "minecraft:book"
+    },
+    "5": {
+      "item": "minecraft:experience_bottle"
+    },
+    "6": {
+      "tag": "minecraft:small_flowers"
+    },
+    "7": {
+      "item": "minecraft:experience_bottle"
+    },
+    "8": {
+      "tag": "minecraft:small_flowers"
+    }
+  },
+  "result": {
+    "item": "level_book:level_book",
+    "count": 1
+  }
+}
