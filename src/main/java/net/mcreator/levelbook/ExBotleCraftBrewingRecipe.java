@@ -13,7 +13,7 @@ import net.mcreator.levelbook.item.EssenceXPItem;
 @LevelBookModElements.ModElement.Tag
 public class ExBotleCraftBrewingRecipe extends LevelBookModElements.ModElement {
 	public ExBotleCraftBrewingRecipe(LevelBookModElements instance) {
-		super(instance, 5);
+		super(instance, 6);
 	}
 
 	@Override

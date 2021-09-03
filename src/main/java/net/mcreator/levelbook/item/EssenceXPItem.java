@@ -16,7 +16,7 @@ public class EssenceXPItem extends LevelBookModElements.ModElement {
 	@ObjectHolder("level_book:essence_xp")
 	public static final Item block = null;
 	public EssenceXPItem(LevelBookModElements instance) {
-		super(instance, 3);
+		super(instance, 1);
 	}
 
 	@Override

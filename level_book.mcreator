@@ -4,7 +4,7 @@
     {
       "name": "LevelBook",
       "type": "item",
-      "sortid": 1,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -13,7 +13,7 @@
     {
       "name": "LevelBookKoghdaNazhataPkmPoVozdukhu",
       "type": "procedure",
-      "sortid": 1,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -50,7 +50,7 @@
     {
       "name": "LevelBookRec",
       "type": "recipe",
-      "sortid": 2,
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -59,7 +59,7 @@
     {
       "name": "EssenceXP",
       "type": "item",
-      "sortid": 3,
+      "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -68,7 +68,7 @@
     {
       "name": "EssenceXPProc",
       "type": "procedure",
-      "sortid": 4,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -101,17 +101,39 @@
     {
       "name": "ExBotleCraft",
       "type": "recipe",
-      "sortid": 5,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "ex_botle_craft"
+    },
+    {
+      "name": "EssenceXPach",
+      "type": "achievement",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "essence_x_pach"
+    },
+    {
+      "name": "LevelBookach",
+      "type": "achievement",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "level_bookach"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "advancements.essence_x_pach.descr": "Search",
+      "advancements.level_bookach.descr": "Craft",
+      "advancements.essence_x_pach.title": "Essence XP",
+      "advancements.level_bookach.title": "Level Book",
       "item.level_book.level_book": "Level Book",
       "item.level_book.essence_xp": "Essence Of Experience"
     }
@@ -124,7 +146,7 @@
     "modid": "level_book",
     "modName": "level_book",
     "version": "1.0.0",
-    "author": "Семья, MCreator",
+    "author": "CoringPlay, MCreator",
     "websiteURL": "https://mcreator.net",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,

@@ -1,4 +1,8 @@
 {
+  "advancements.essence_x_pach.descr": "Search",
+  "advancements.level_bookach.descr": "Craft",
+  "advancements.essence_x_pach.title": "Essence XP",
+  "advancements.level_bookach.title": "Level Book",
   "item.level_book.level_book": "Level Book",
   "item.level_book.essence_xp": "Essence Of Experience"
 }

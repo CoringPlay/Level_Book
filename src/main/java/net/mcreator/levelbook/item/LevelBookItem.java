@@ -28,7 +28,7 @@ public class LevelBookItem extends LevelBookModElements.ModElement {
 	@ObjectHolder("level_book:level_book")
 	public static final Item block = null;
 	public LevelBookItem(LevelBookModElements instance) {
-		super(instance, 1);
+		super(instance, 2);
 	}
 
 	@Override

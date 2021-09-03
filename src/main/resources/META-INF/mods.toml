@@ -8,7 +8,7 @@ version="1.0.0"
 displayName="level_book"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-authors="Семья, MCreator"
+authors="CoringPlay, MCreator"
 
 [[dependencies.level_book]]
     modId="minecraft"
